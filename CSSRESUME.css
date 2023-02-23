@@ -22,7 +22,7 @@ body {
 
 /*Font styles----*/
 h1{
-    font-size: 80px;
+    font-size: 50px;
     line-height: 20px;
 }
 
@@ -39,11 +39,17 @@ header{
     /* Bad Practice */
 }
 
+.not-bold {
+    font-weight: normall
+}
+
 .title-container {
     display: flex;
     justify-content: left;
     width: 100%;
     margin-right: 0px;
+    margin-left: 100px;
+    margin-top: 30px;
     word-spacing: 5px;
     letter-spacing: 0px;
     /* margin-bottom: 10px; */
@@ -53,8 +59,8 @@ header{
     display: flow-root;
     justify-content: center;
     flex-flow: row nowrap;
-    margin-top: 30px;
-    margin-left: -200px;
+    margin-top: 50px;
+    margin-left: -300px;
     margin-bottom: 0px;
     /* width: 100%; */
     font-size: 10pt;
@@ -127,7 +133,8 @@ a {
 }
 
 .subsection-header.activities {
-    flex: 5;
+    flex: 13.5;
+    margin-bottom: -10px;
 }
 
 .subsection-header.carryover{
