@@ -69,7 +69,7 @@ header{
 }
 
 .title{
-    color: #3e3aa2;
+    color: #5c1717;
 }
 
 a {
@@ -92,7 +92,7 @@ a {
     /* margin-left: 2px; */
     margin-top: 10px;
     /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-    color: #3e3aa2;
+    color: #5c1717;
     border-bottom: 3px rgb(150, 150, 150) solid;
     padding-bottom: 5px;
     margin-bottom: 6px;
@@ -172,7 +172,7 @@ a {
 .subsection-header.degree{
     font-size: 15px;
     font-weight: bold;
-    color: #0600a9;
+    color: #5c1717;
     /* margin-top: 0px; */
     margin-bottom: 2px;
 }
