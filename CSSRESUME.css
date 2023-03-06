@@ -59,8 +59,8 @@ header{
     display: flow-root;
     justify-content: center;
     flex-flow: row nowrap;
-    margin-top: 50px;
-    margin-left: -325px;
+    margin-top: 40px;
+    margin-left: -290px;
     margin-bottom: 0px;
     /* width: 100%; */
     font-size: 10pt;
@@ -149,7 +149,7 @@ a {
 
 .subsection-header.datetime{
     font-size: 13px;
-    flex: 5;
+    flex: 8;
     text-align: right;
 }
 
